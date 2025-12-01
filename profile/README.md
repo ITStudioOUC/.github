@@ -8,7 +8,7 @@
 </div>
 <br>
 <div align="center">
-    <img src="img/Organization-ITStudio-shield.svg"/>
+    <img src="/img/Organization-ITStudio-shield.svg"/>
     <br>
     <img src="https://img.shields.io/badge/Language-C-blue">
     <img src="https://img.shields.io/badge/Language-C++-purple">
@@ -36,6 +36,6 @@
 # 吉祥物
 
 <div align="center">
-    <img src="img/fufu.png" width="256px"/><br>
+    <img src="/img/fufu.png" width="256px"/><br>
     <b>雪雪</b>
 </div>
