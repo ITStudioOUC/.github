@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-    <img src="img/IT_logo.svg" width=100/>
+    <img src="/img/IT_logo.svg" width=100/>
 </div>
 <div align="center">
     <h1>爱特工作室</h1>
