@@ -4,7 +4,6 @@
 </div>
 <div align="center">
     <h1>爱特工作室</h1>
-    <h2>IT Studio</h2>
 </div>
 <br>
 <div align="center">
@@ -51,9 +50,27 @@
 
 <!-- MEMBERS-LIST:END -->
 
+# 联系我们
+
+- 博客官网: https://blog.itstudio.club
+- 爱特展示网: https://itstudio.club
+- 微信公众号: 爱特工坊
+- B站: [爱特工作室](https://space.bilibili.com/3546373051910563)
+
 # 吉祥物
 
-<div align="center">
-    <img src="/img/fufu.png" width="256px"/><br>
-    <b>雪雪</b>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="/img/fufu.png" width="256" />
+    </td>
+    <td align="center">
+      <img src="/img/fufu2.png" width="256" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <b>雪雪</b>
+    </td>
+  </tr>
+</table>
