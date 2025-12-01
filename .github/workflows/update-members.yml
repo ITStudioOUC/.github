@@ -37,4 +37,4 @@ jobs:
         with:
           commit_message: "docs: update organization members list"
           branch: main
-          file_pattern: "/profile/README.md"
+          file_pattern: "profile/README.md"
