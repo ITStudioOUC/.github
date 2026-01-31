@@ -7,7 +7,7 @@ import math
 ORG_NAME = os.environ['ORG_NAME']
 TOKEN = os.environ['GH_TOKEN']
 README_PATH = "profile/README.md"
-COLUMNS = 6  # 你想要一行显示几个成员？
+COLUMNS = 8  # 你想要一行显示几个成员？
 
 def get_members():
     url = f"https://api.github.com/orgs/{ORG_NAME}/members"
