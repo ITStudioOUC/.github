@@ -66,9 +66,23 @@
     <td align="center">
       <img src="/img/fufu2.png" width="256" />
     </td>
+    <td align="center">
+      <img src="/img/fufu3.png" width="256" />
+    </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td align="center">
+      <img src="/img/fufu4.png" width="256" />
+    </td>
+    <td align="center">
+      <img src="/img/fufu5.png" width="256" />
+    </td>
+    <td align="center">
+      <img src="/img/fufu6.png" width="256" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
       <b>雪雪</b>
     </td>
   </tr>
