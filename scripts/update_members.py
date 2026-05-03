@@ -6,7 +6,7 @@ import math
 # 配置部分
 ORG_NAME = os.environ['ORG_NAME']
 TOKEN = os.environ['GH_TOKEN']
-README_PATH = "profile/README.md"
+README_PATH = "README.md"
 COLUMNS = 7  # 你想要一行显示几个成员？
 
 def get_members():
